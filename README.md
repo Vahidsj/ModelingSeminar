@@ -1,6 +1,6 @@
 # RECOMMENDER SYSTEMS WITH RECURRENT NEURAL NETWORKS (A feature-rich session-based RecSys) #
 
-This work has been completed in cooperation with prudsys AG, where I currently work as researcher (working student) in department of Consulting & Data science.
+This work has been completed in cooperation with prudsys AG in Berlin, where I currently work as a researcher (working student) in department of Consulting & Data science.
 
 Recommender systems are beneficial to both users and companies that provide services. Proper recommendations can support users to find what they are looking for more easily and faster. Additionally, recommender systems can help users discover new content and improve user experience and engagement. Over the last years, many works have been done on the use of Recurrent Neural Networks (RNNs) in the case of recommender systems. Results were positive and promising, especially in the session-based setting where RNNs were shown to outperform state-of-the-art models. In many of these experiments, the RNN could potentially improve its recommendations by utilizing information about past sessions of a user, in addition to his interactions in the current session. An issue for session-based recommenders, is how to generate more accurate recommendations using more information about the session, specifically items.
 

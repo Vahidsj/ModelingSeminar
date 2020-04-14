@@ -19,8 +19,8 @@ Our experiments on our dataset, show that the proposed approach can significantl
 Real-life recommender systems often face the daunting task of providing recommendations based only on the clicks of a user session. However, the items typically have rich feature representations such as text descriptions that can be used to model the sessions. We want to find out how contextual information can be incorporated into an RNN based session-based recommender system. The goal of this research is therefore to implement an RNN-based session-based recommender system, that also considers the information about items. We want to find out how the model performs as a recommender system.
 Intuitively, RNNs improve their sequence predictions throughout a sequence, after having learned from the earlier items. Since our proposed model supply the RNN with additional information about the session, it should be able to make stronger recommendations.
 
-**•	Research question 1:** 
+**•	Research Question 1:** 
 Can an RNN be used to learn from previous sessions, and thus produce information about the next click?
 
-**•	Research question 2:** 
+**•	Research Question 2:** 
 How can the features of items be represented and exploited in Recurrent Neural Network session-based models using deep learning, which can help improve recommendations from the straightforward session based RNN recommendation system implementation?
